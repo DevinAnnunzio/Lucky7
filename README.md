@@ -18,7 +18,8 @@ Future plans:
 
 </br>
 <h5>Home screen</h5>
-<img src="" width="500" height="800">
+<img src="https://user-images.githubusercontent.com/69616397/198830285-17106888-9023-4b73-85cc-4cb4f63f2eea.png"
+" width="400" height="800">
 
 
 </br>
